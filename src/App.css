@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Antonio";
+  src: url(../src/fonts/Antonio.ttf);
+}
+* {
+  box-sizing: border-box;
+  font-family: "Antonio";
+}
+body {
+  background-color: #070724;
+  background-image: url(./assets/stars.png);
+}
